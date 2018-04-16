@@ -148,7 +148,7 @@ http://domenlightenment.com/
 
 - **JavaScript hacks for ES6 hipsters**
 
-https://hackernoon.com/javascript-hacks-for-es6-hipsterhttps://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84s-67d633ce8ace?source=placement_card_footer_grid---------2-60
+https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace?source=placement_card_footer_grid---------2-60
 
 - **Fun fun function**
   https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
